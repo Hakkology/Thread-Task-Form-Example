@@ -1,0 +1,17 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\bin\Debug\net6.0-windows\Hakan.ThreadTask.FormApp.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\bin\Debug\net6.0-windows\Hakan.ThreadTask.FormApp.deps.json
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\bin\Debug\net6.0-windows\Hakan.ThreadTask.FormApp.runtimeconfig.json
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\bin\Debug\net6.0-windows\Hakan.ThreadTask.FormApp.dll
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\bin\Debug\net6.0-windows\Hakan.ThreadTask.FormApp.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\obj\Debug\net6.0-windows\Hakan.ThreadTask.FormApp.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\obj\Debug\net6.0-windows\Hakan.ThreadTask.FormApp.Form1.resources
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\obj\Debug\net6.0-windows\Hakan.ThreadTask.FormApp.csproj.GenerateResource.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\obj\Debug\net6.0-windows\Hakan.ThreadTask.FormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\obj\Debug\net6.0-windows\Hakan.ThreadTask.FormApp.AssemblyInfoInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\obj\Debug\net6.0-windows\Hakan.ThreadTask.FormApp.AssemblyInfo.cs
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\obj\Debug\net6.0-windows\Hakan.ThreadTask.FormApp.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\obj\Debug\net6.0-windows\Hakan.ThreadTask.FormApp.dll
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\obj\Debug\net6.0-windows\refint\Hakan.ThreadTask.FormApp.dll
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\obj\Debug\net6.0-windows\Hakan.ThreadTask.FormApp.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\obj\Debug\net6.0-windows\Hakan.ThreadTask.FormApp.genruntimeconfig.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadTask.FormApp\obj\Debug\net6.0-windows\ref\Hakan.ThreadTask.FormApp.dll
