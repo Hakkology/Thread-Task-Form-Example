@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33027.164
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hakan.ThreadTask.FormApp", "Hakan.ThreadTask.FormApp\Hakan.ThreadTask.FormApp.csproj", "{96727DA1-18D4-4A89-9263-A8D63FBDFFAC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hakan.ParameterizedThread.ConsoleApp", "Hakan.ThreadParameterizedThreadStart.ConsoleApp\Hakan.ParameterizedThread.ConsoleApp.csproj", "{3E3C39C5-B5BB-4BC7-B1C6-47295F52B26F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hakan.ParameterizedThread.ConsoleApp", "Hakan.ParameterizedThread.ConsoleApp.csproj", "{3E3C39C5-B5BB-4BC7-B1C6-47295F52B26F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{96727DA1-18D4-4A89-9263-A8D63FBDFFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96727DA1-18D4-4A89-9263-A8D63FBDFFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96727DA1-18D4-4A89-9263-A8D63FBDFFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96727DA1-18D4-4A89-9263-A8D63FBDFFAC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3E3C39C5-B5BB-4BC7-B1C6-47295F52B26F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3E3C39C5-B5BB-4BC7-B1C6-47295F52B26F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E3C39C5-B5BB-4BC7-B1C6-47295F52B26F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B63E767A-AFFE-409D-91B3-6D047C77EC19}
+		SolutionGuid = {EE73C7D7-AEBA-478B-9BBE-A70D0ABB3722}
 	EndGlobalSection
 EndGlobal

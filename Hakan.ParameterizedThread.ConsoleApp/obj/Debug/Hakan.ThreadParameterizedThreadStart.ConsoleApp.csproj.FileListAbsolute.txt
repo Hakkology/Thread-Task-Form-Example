@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadParameterizedThreadStart.ConsoleApp\bin\Debug\Hakan.ThreadParameterizedThreadStart.ConsoleApp.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadParameterizedThreadStart.ConsoleApp\bin\Debug\Hakan.ThreadParameterizedThreadStart.ConsoleApp.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadParameterizedThreadStart.ConsoleApp\bin\Debug\Hakan.ThreadParameterizedThreadStart.ConsoleApp.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadParameterizedThreadStart.ConsoleApp\obj\Debug\Hakan.ThreadParameterizedThreadStart.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadParameterizedThreadStart.ConsoleApp\obj\Debug\Hakan.ThreadParameterizedThreadStart.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadParameterizedThreadStart.ConsoleApp\obj\Debug\Hakan.ThreadParameterizedThreadStart.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadParameterizedThreadStart.ConsoleApp\obj\Debug\Hakan.ThreadParameterizedThreadStart.ConsoleApp.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Denemeler\Hakan.Thread.Task\Hakan\Hakan.ThreadParameterizedThreadStart.ConsoleApp\obj\Debug\Hakan.ThreadParameterizedThreadStart.ConsoleApp.pdb
